@@ -2,11 +2,11 @@
 ////////Voices of Hope for Apasia Counting Script////////
 /////////////////////////////////////////////////////////
 /*
-Authors: 		    Devin D., Manuel U., Jashmina P., Valdemar T., Justin H.
-Institution: 	  University of Florida
+Authors: 	Devin D., Manuel U.
+Institution: 	University of Florida
 Organization: 	Association for Information Systems
-Branch: 		    Community Development and Outreach Consulting Team B
-Version: 		    1.1 (4/26/21)
+Branch: 	Community Development and Outreach Consulting Team B
+Version: 	1.1 (4/26/21)
 */
 
 //Duration multiplier for quick changes
