@@ -15,3 +15,4 @@ Directions:
 6. Fill the array 'endNums' with the final values 
 7. Change 'increments' and 'durations' to your liking
   7a. Make sure 'increments' are all factors of the final values (ex. final value = 50, increments can be 2,5,10,25, etc.)
+8. Change the analyst credits to reflect your team
