@@ -7,7 +7,7 @@ Date:     5/5/21
 Version:  1.1
 
 Directions:
-1. Import code into the Wix Page Script editor
+1. Import code from main.js into the Wix Page Script editor
 2. Create as many text elements containing the value ("0") as needed
 3. Fill the array 'tags' with the string values for the elements (will start with a #)
 4. Fill the array 'units' with whatever string you would like to follow the number (+, %, x, etc.)
